@@ -1,5 +1,5 @@
 <?php
-    function register_cpt_transacao){
+    function register_cpt_transacao(){
         register_post_type('transacao', array(
             'label' => 'Transacao',
             'description' => 'Transacao',
